@@ -2,8 +2,6 @@
 
 ## Installation Instructions
 
-1. Set up python packages
-
 Create python environment (optional)
 ```sh
 conda create -n summ python=3.7 -y
